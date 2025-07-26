@@ -4,7 +4,7 @@ A responsive, clean, and customizable navbar built with **React**, **Vite**, and
 
 ## 🎬 Demo
 
-![Demo Video](/Screen%20Recording%202025-07-26%20131046.mp4)
+![Demo Video](/navbar/public/Screen%20Recording%202025-07-26%20131046.mp4)
 
 ---
 

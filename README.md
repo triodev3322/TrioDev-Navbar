@@ -85,7 +85,8 @@ Triodev3322
 
 📧 Reach out via triodev226@gmail.com
 
-![Website](https://triodev-web.vercel.app/)
+🌐 [Live Website](https://triodev3322-triodev-navbar.vercel.app/)
+
 
 If you like this project, please ⭐ the repository!
 

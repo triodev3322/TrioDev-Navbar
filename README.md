@@ -2,10 +2,6 @@
 
 A responsive, clean, and customizable navbar built with **React**, **Vite**, and **Tailwind CSS**. This project demonstrates a modern approach to building navigation components for web applications.
 
-## 🎬 Demo
-
-![Demo Video](/navbar/public/Screen%20Recording%202025-07-26%20131046.mp4)
-
 ---
 
 ## 🚀 Features
